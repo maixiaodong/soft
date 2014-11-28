@@ -1,0 +1,2 @@
+title="python"
+print(title)
