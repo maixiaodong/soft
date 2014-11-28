@@ -1,2 +1,2 @@
-title="python"
+title="mai"
 print(title)
