@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-	printf("Hello, world\n");
+	printf("ni hao\n");
 	
 	return 0;
 }
